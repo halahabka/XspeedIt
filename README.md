@@ -1,7 +1,7 @@
 # XspeedIt
 Robot XspeedIt
 
-## Prérequis pour l'utilisation
+## Prérequis
 
  - Git
  - Java 7
