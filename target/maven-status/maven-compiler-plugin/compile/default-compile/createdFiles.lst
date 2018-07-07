@@ -1,0 +1,6 @@
+com\ouisncf\xspeedit\robot\AbstractRobot.class
+com\ouisncf\xspeedit\model\Carton.class
+com\ouisncf\xspeedit\robot\impl\XspRobot.class
+com\ouisncf\xspeedit\util\XspRobotConstants.class
+com\ouisncf\xspeedit\Main.class
+com\ouisncf\xspeedit\util\XspRobotUtils.class
