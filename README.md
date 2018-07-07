@@ -8,9 +8,7 @@ Robot XspeedIt
 
 ## Utilisation
 
- Dans une ligne de commande:
- git clone https://github.com/halahabka/XspeedIt.git
- cd XspeedIt/target
- java -jar Xspeedit.jar 163841689525773
- 
- 
+Dans une ligne de commande:
+git clone https://github.com/halahabka/XspeedIt.git
+cd XspeedIt/target
+java -jar Xspeedit.jar 163841689525773 
